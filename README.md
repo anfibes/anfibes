@@ -90,11 +90,15 @@ https://github.com/anfibes/kplan
 
 ## Availability
 
-Open to:
+Open to selected freelance and consulting engagements involving:
 
-- remote positions
-- hybrid roles
-- relocation to Germany
+- Laravel backend architecture
+- existing application assessment and modernization
+- complex API and third-party integrations
+- CRM/ERP backend development
+- technical architecture and backend advisory
+
+Available primarily for remote projects.
 
 ---
 
